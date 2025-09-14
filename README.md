@@ -1,42 +1,7 @@
-# A Letter To KirA
+# A Letter To Kira
 <!DOCTYPE html>
 <html>
 <head>
-  <title>To My Special Someone</title>
-  <style>
-    body {
-      background: linear-gradient(135deg, #ffd6e0 0%, #f8cdda 100%);
-      font-family: 'Segoe UI', cursive, sans-serif;
-      text-align: center;
-      padding: 50px;
-    }
-    .heart {
-      color: #e25555;
-      font-size: 4em;
-      animation: pulse 1.5s infinite;
-    }
-    @keyframes pulse {
-      0% { transform: scale(1); }
-      50% { transform: scale(1.2); }
-      100% { transform: scale(1); }
-    }
-    .letter {
-      margin-top: 30px;
-      background: #fff8fc;
-      border-radius: 15px;
-      box-shadow: 2px 8px 20px #daa6d1;
-      display: inline-block;
-      padding: 30px;
-      max-width: 600px;
-      font-size: 1.15em;
-      text-align: left;
-    }
-    .signature {
-      margin-top: 40px;
-      text-align: right;
-      font-style: italic;
-      font-size: 1em;
-    }
   </style>
 </head>
 <body>
