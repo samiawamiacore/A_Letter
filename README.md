@@ -14,4 +14,6 @@ You are not simply the love of my life; you are the axis upon which my world tur
 
 And so I give you not only the words of my heart but the hours of my days, the strength of my hands, the tenderness of my care. I give you my silence when you need peace, and my voice when you need encouragement. I give you the certainty that no matter how heavy the weight of life may become, you will never have to carry it alone.
 
+In the end, if our love is measured by the small courageous acts we perform each day, then I am certain we will have created something that outlasts both of us.
+
 If the world should ever doubt us, let them look at the way I hold you — not with desperation, but with reverence; not as though you are mine to possess, but as though you are a wonder entrusted to me, a miracle to cherish. And in every tomorrow, in every uncertain dawn, I will choose you again — willingly, joyfully, endlessly. </p> <div class="signature"> Forever yours,<br> Samia </div> </div> </body> </html>
